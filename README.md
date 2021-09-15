@@ -1,11 +1,11 @@
 
 ### Hi, I'm Evan, currently 16 years old. 
 
-- ✍ I'm crurrently working on 'xxx'
-- 💻 I use [Code Server (vscode)](https://github.com/cdr/code-server)
-- 📫 How to reach me: [Discord](x)
+- ✍ I'm crurrently working on [Atom]().
+- 💻 I use [Code Server (vscode)](https://github.com/cdr/code-server).
+- 📫 How to reach me: [Discord](x).
 
-( Readme inspired by [Derpinou](https://github.com/Derpinou) & [ImLorio](https://github.com/ImLorio) )
+(Readme inspired by [Derpinou](https://github.com/Derpinou)).
 
 ## 🌍 Programming languages:
 
