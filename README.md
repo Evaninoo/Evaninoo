@@ -36,7 +36,7 @@
   |---------------------|-----------------------------------------|------------------------------------------------------------------------------------------|
   | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server. |
   | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                        |
-  | URL-Kepper          | https://github.com/Evaninoo/url-keeper  | Keep safe your vanity URL about changes, for your Discord server.                        |
+  | URL-Keeper          | https://github.com/Evaninoo/url-keeper  | Keep safe your vanity URL about changes, for your Discord server.                        |
 
 ## 🙂 Friends:
 - [Derpinou](https://github.com/Derpinou)
