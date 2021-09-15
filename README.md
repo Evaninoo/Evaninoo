@@ -1,4 +1,3 @@
-
 ### Hi, I'm Evan, currently 16 years old. I'm a french student in computer science, on this github, I will post open source projects to you. Have fun !
 
 - 🔭 I'm crurrently working on [Atom](https://github.com/Evaninoo/Atom).
@@ -12,10 +11,10 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python]()
+![Python](https://user-images.githubusercontent.com/56278136/133360621-dcea222b-f042-47a0-995b-280ac51c002f.png)
 
 ## 📑 Currently Learning:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## ⚙️ Programming Tools:
 
