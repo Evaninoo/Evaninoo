@@ -14,7 +14,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📑 Currently Learning:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## ⚙️ Programming Tools:
 
@@ -22,19 +23,20 @@
   [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
   [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
-  [<img alt="pycharm" width="50px" src="https://i.imgur.com/Xjp0JLc.png"/>](https://www.jetbrains.com/webstorm/)
+  [<img alt="webstorm" width="50px" src="https://imgur.com/a/6B661hG"/>](https://www.jetbrains.com/webstorm/)
+  [<img alt="pycharm" width="50px" src="https://i.imgur.com/Xjp0JLc.png"/>](https://www.jetbrains.com/pycharm/)
 
 ## 🔧 OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## 🚩 Projects:
-  | Name             | Link                              | Description                                                            |
-  |------------------|-----------------------------------|------------------------------------------------------------------------|
-  | x | xxx | xxxxx |
-  | x | xxx | xxxxx |
-  | x | xxx | xxxxx |
+  | Name                | Link                                    | Description                                                                              |
+  |---------------------|-----------------------------------------|------------------------------------------------------------------------------------------|
+  | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server. |
+  | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                        |
+  | URL-Kepper          | https://github.com/Evaninoo/url-keeper  | Keep safe your vanity URL about changes, for your Discord server.                        |
 
 ## 🙂 Friends:
 - [Derpinou](https://github.com/Derpinou)
