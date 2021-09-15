@@ -2,8 +2,8 @@
 ### Hi, I'm Evan, currently 16 years old. 
 
 - 🔭 I'm crurrently working on [Atom](https://github.com/Evaninoo/Atom).
-- 💻 I use [Code Server (vscode)](https://github.com/cdr/code-server).
-- 📫 How to reach me: [Discord](x) & [Mail](mailto:someone@example.com).
+- 💻 I use [Webstorm](https://www.jetbrains.com/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/) & [Code Server](https://github.com/cdr/code-server).
+- 📫 How to reach me: [Discord](x) & [Mail](mailto:contact@evaninoo.com).
 
 (Readme inspired by [Derpinou](https://github.com/Derpinou)).
 
