@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Discord](https://discord.gg/jYqaGhxDGT) & [Mail](mailto:contact@evaninoo.com).
 - 🥖 I live and study in Paris (France)
 
-( Readme inspired by [Derpinou](https://github.com/Derpinou) & [ImLorio](https://github.com/ImLorio) ).
+( Readme inspired by [Derpinou](https://github.com/Derpinou) & [ImLorio](https://github.com/ImLorio) )
 
 ## 🌍 Programming languages:
 
@@ -50,8 +50,8 @@
 
 ## 🙂 Friends:
 - [Derpinou](https://github.com/Derpinou)
-- [Sofian](https://github.com/Sofiandsv)
 - [ImLorio](https://github.com/ImLorio)
+- [Sofian](https://github.com/Sofiandsv)
 
 <p align="center"> 
   Visitor count<br>
