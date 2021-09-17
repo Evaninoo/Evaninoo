@@ -31,7 +31,7 @@
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com/)
   [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
   [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/)
-  [<img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>](https://www.jetbrains.com/webstorm/)
+  [<img alt="webstorm" width="70px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>](https://www.jetbrains.com/webstorm/)
   [<img alt="pycharm" width="50px" src="https://i.imgur.com/Xjp0JLc.png"/>](https://www.jetbrains.com/pycharm/)
   [<img alt="vstudio" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-2013-logo-svg-vector.svg"/>](https://visualstudio.microsoft.com/)
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
