@@ -60,5 +60,4 @@
 </p>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=evaninoo&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evaninoo&theme=onedark)](https://github.com/Evaninoo)
+<img align="center" alt="My trophies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
