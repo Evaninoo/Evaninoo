@@ -7,6 +7,8 @@
 
 ( Readme inspired by [Derpinou](https://github.com/Derpinou) & [ImLorio](https://github.com/ImLorio) )
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Evaninoo&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/Evaninoo)
+
 ## 🌍 Programming languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,9 +62,3 @@
 </p>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=evaninoo&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
-<img align="center" alt="My trophies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
-
-<p align="center">
-  My Trophies
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
-</p>
