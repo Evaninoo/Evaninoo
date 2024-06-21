@@ -1,4 +1,4 @@
-### Hi, I'm Evan, currently 18 years old. I'm a student, soon to be in computer science school. On this github, I will post open source projects to you. Have fun !
+### Hi, I'm Evan, currently 19 years old. I'm a student, soon to be in computer science school. On this github, I will post open source projects to you. Have fun !
 
 - 🔭 I'm crurrently working on [Atom](https://github.com/Evaninoo/Atom).
 - 💻 I use [Webstorm](https://www.jetbrains.com/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/) & [Code Server](https://github.com/cdr/code-server).
