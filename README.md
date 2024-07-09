@@ -50,6 +50,7 @@
 
 ## 🙂 Friends:
 - [Derpinou](https://github.com/Derpinou)
+- [Sayt0](https://github.com/Sayt-0)
 
 <p align="center"> 
   Visitor count<br>
