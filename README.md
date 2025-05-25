@@ -8,10 +8,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Evaninoo&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/Evaninoo)
 
 ## 🌍 Programming languages:
-![](https://skillicons.dev/icons?i=cs,py,ocaml,js,lua,html,x&theme=dark)
+![](https://skillicons.dev/icons?i=cs,py,js,ocaml,html,octave,lua,x&theme=dark)
 
 ## 📑 Currently Learning:
-![](https://skillicons.dev/icons?i=ts,x&theme=dark)
+![](https://skillicons.dev/icons?i=c,ts,x&theme=dark)
 
 
 ## ⚙️ Programming Tools:
@@ -29,7 +29,6 @@
   |---------------------|-----------------------------------------|------------------------------------------------------------------------------------------|
   | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server. |
   | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                        |
-  | URL-Keeper          | https://github.com/Evaninoo/url-keeper  | Keep safe your vanity URL about changes, for your Discord server.                        |
   | Unlockis            | https://unlockis.fr/                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.    |
   | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj   | A little video game in Augmented Reality, for Android devices. Made with Unity.          |
   | Jaya RP             | Depecrated                              | A french Grand Theft Auto V Roleplay server created by my own.                           |
