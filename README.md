@@ -7,6 +7,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Evaninoo&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/Evaninoo)
 
+## 💻 My Discord Profile:
+<div align="center">
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/679487473025286146?animated=:true&animatedDecoration=true&idleMessage=:%22Probably%20touching%20some%20grass...%22)](https://discord.com/users/679487473025286146)
+  
+</div>
+
 ## 🌍 Programming languages:
 ![](https://skillicons.dev/icons?i=cs,py,js,ocaml,html,octave,lua,x&theme=dark)
 
