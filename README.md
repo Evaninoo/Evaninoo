@@ -10,7 +10,7 @@
 ## 💻 My Discord Profile:
 <div align="center">
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/679487473025286146?animated=:true&animatedDecoration=true&idleMessage=:%22Probably%20touching%20some%20grass...%22)](https://discord.com/users/679487473025286146)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/679487473025286146?animated=:true&animatedDecoration=true&hideSpotify=true&idleMessage=Probably%20touching%20some%20grass...%F0%9F%90%BB)](https://discord.com/users/679487473025286146)
   
 </div>
 
