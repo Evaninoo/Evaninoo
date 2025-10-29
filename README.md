@@ -50,9 +50,6 @@
 - [yaluvie](https://github.com/yaluvie)
 - [Sayt0](https://github.com/Sayt-0)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/evaninoo/count.svg" />
-</p>
+
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=evaninoo&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
