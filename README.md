@@ -40,6 +40,7 @@
   | Unlockis            | https://unlockis.fr/                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.    |
   | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver  | Optical Character Recognition software who solves a hidden word puzzle.                  |
   | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj   | A little video game in Augmented Reality, for Android devices. Made with Unity.          |
+  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct | Implementation of Trie data structure in C.                                              |
   | Jaya RP             | Depecrated                              | A french Grand Theft Auto V Roleplay server created by my own.                           |
   | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                        |
   | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server. |
