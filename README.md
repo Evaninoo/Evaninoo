@@ -1,4 +1,4 @@
-### Hi, I'm Evan, currently 20 years old. I'm a computer science student at EPITA. I'm also a fan of cybersecurity. On this github, I will post open source projects to you. Have fun !
+### Hi, I'm Evan, currently 21 years old. I'm a computer science student at EPITA. I'm also a fan of cybersecurity. On this github, I will post open source projects to you. Have fun !
 
 - 🔭 I'm crurrently studying at [EPITA](https://www.epita.fr/).
 - 💻 I use [vim](https://www.vim.org/) editor, the Jetbrains Suite powered by [JetBrainsIDE](https://www.jetbrains.com/) & [Code Studio Server](https://github.com/cdr/code-server).
@@ -35,22 +35,26 @@
 [![](https://skillicons.dev/icons?i=linkedin,x&theme=dark)](https://www.linkedin.com/in/evan-bouzaglou/)[![](https://skillicons.dev/icons?i=instagram,x&theme=dark)](https://www.instagram.com/evan_bzg/)[![](https://skillicons.dev/icons?i=discord,x&theme=dark)](https://discord.gg/Nmct6HWngB)
 
 ## 🚩 Projects:
-  | Name                | Link                                    | Description                                                                              |
-  |---------------------|-----------------------------------------|------------------------------------------------------------------------------------------|
-  | Unlockis            | https://unlockis.fr/                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.    |
-  | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver  | Optical Character Recognition software who solves a hidden word puzzle.                  |
-  | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj   | A little video game in Augmented Reality, for Android devices. Made with Unity.          |
-  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct | Implementation of Trie data structure in C.                                              |
-  | Jaya RP             | Depecrated                              | A french Grand Theft Auto V Roleplay server created by my own.                           |
-  | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                        |
-  | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server. |
+  | Name                | Link                                    | Description                                                                                 |
+  |---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+  | Unlockis            | https://unlockis.fr/                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.       |
+  | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver  | Optical Character Recognition software who solves a hidden word puzzle.                     |
+  | Vif                 | Coming Soon !                           | Vim-like terminal code editor with modes, shortcuts, syntax highlighting, auto-completion.  |
+  | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj   | A little video game in Augmented Reality, for Android devices. Made with Unity.             |
+  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct | Implementation of Trie data structure in C.                                                 |
+  | Jaya RP             | Depecrated                              | A french Grand Theft Auto V Roleplay server created by my own.                              |
+  | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                           |
+  | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server.    |
 
 ## 🙂 Friends:
 - [Derpinou](https://github.com/Derpinou)
+- [Andrei](https://github.com/android-varx)
 - [Tom](https://github.com/Fubaara)
 - [yaluvie](https://github.com/yaluvie)
 - [Sayt0](https://github.com/Sayt-0)
 
+</br></br>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=evaninoo&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaninoo&hide_border=true&theme=dracula" />
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Evaninoo&theme=dracula&border_radius=40&locale=fr" alt="GitHub Streak" /></a>
+</div>
