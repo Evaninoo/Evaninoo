@@ -35,20 +35,21 @@
 [![](https://skillicons.dev/icons?i=linkedin,x&theme=dark)](https://www.linkedin.com/in/evan-bouzaglou/)[![](https://skillicons.dev/icons?i=instagram,x&theme=dark)](https://www.instagram.com/evan_bzg/)[![](https://skillicons.dev/icons?i=discord,x&theme=dark)](https://discord.gg/Nmct6HWngB)
 
 ## 🚩 Projects:
-  | Name                | Link                                    | Description                                                                                 |
-  |---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
-  | Unlockis            | https://unlockis.fr/                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.       |
-  | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver  | Optical Character Recognition software who solves a hidden word puzzle.                     |
-  | Vif                 | Coming Soon !                           | Vim-like terminal code editor with modes, shortcuts, syntax highlighting, auto-completion.  |
-  | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj   | A little video game in Augmented Reality, for Android devices. Made with Unity.             |
-  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct | Implementation of Trie data structure in C.                                                 |
-  | Jaya RP             | Depecrated                              | A french Grand Theft Auto V Roleplay server created by my own.                              |
-  | Anti-Thread         | https://github.com/Evaninoo/anti-thread | Keep safe your Discord server against a raid by threads creation.                           |
-  | Atom                | https://github.com/Evaninoo/Atom        | Atom is a Discord certified bot that allows you to manage voice activity in your server.    |
+  | Name                | Link                                                    | Description                                                                                 |
+  |---------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------|
+  | Unlockis            | https://github.com/Evaninoo/Unlockis                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.       |
+  | Unlockis Website    | https://unlockis.fr/                                    | Unlockis official website                                                                   |
+  | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver                  | Optical Character Recognition software who solves a hidden word puzzle.                     |
+  | Vif                 | Coming Soon !                                           | Vim-like terminal code editor with modes, shortcuts, syntax highlighting, auto-completion.  |
+  | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj                   | A little video game in Augmented Reality, for Android devices. Made with Unity.             |
+  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct                 | Implementation of Trie data structure in C.                                                 |
+  | Jaya RP             | Depecrated                                              | A french Grand Theft Auto V Roleplay server created by my own.                              |
+  | Anti-Thread         | https://github.com/Evaninoo/anti-thread                 | Keep safe your Discord server against a raid by threads creation.                           |
+  | Atom                | https://github.com/Evaninoo/Atom                        | Atom is a Discord certified bot that allows you to manage voice activity in your server.    |
 
 ## 🙂 Friends:
-- [Derpinou](https://github.com/Derpinou)
 - [Andrei](https://github.com/android-varx)
+- [Derpinou](https://github.com/Derpinou)
 - [Tom](https://github.com/Fubaara)
 - [yaluvie](https://github.com/yaluvie)
 - [Sayt0](https://github.com/Sayt-0)
