@@ -3,9 +3,8 @@
 - 🔭 I'm crurrently studying at [EPITA](https://www.epita.fr/).
 - 💻 I use [vim](https://www.vim.org/) editor, the Jetbrains Suite powered by [JetBrainsIDE](https://www.jetbrains.com/) & [Code Studio Server](https://github.com/cdr/code-server).
 - 📫 How to reach me: [Discord](https://discord.gg/Nmct6HWngB) & [Mail](mailto:contact@evaninoo.dev).
-- 🥖 I live and study in Paris (France)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evaninoo&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/Evaninoo)
+- 🥖 I live and study in Paris (France)
+- 🤝 Working with my Teammate [Andrei](https://github.com/andrei-vartiuc)
 
 ## 💻 My Discord Profile:
 <div align="center">
@@ -48,7 +47,6 @@
   | Atom                | https://github.com/Evaninoo/Atom                        | Atom is a Discord certified bot that allows you to manage voice activity in your server.    |
 
 ## 🙂 Friends:
-- [Andrei](https://github.com/android-varx)
 - [Derpinou](https://github.com/Derpinou)
 - [Tom](https://github.com/Fubaara)
 - [yaluvie](https://github.com/yaluvie)
